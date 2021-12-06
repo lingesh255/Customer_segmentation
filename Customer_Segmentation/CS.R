@@ -3,6 +3,7 @@ customer_data=read.csv("~/Customer_Segmentation/customer-segmentation-dataset/Ma
 str(customer_data)
 names(customer_data)
 
+# install.packages("Plotrix")
 library(plotrix)
 
 #First 6 rows and summary
